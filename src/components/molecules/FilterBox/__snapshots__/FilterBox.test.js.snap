@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App check the Descption Card title 1`] = `
+<DocumentFragment>
+  <div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-filterButtonStyle-4"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        <img
+          class="makeStyles-buttonPadding-3"
+          data-testid="image"
+          src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/5c78c112-8fb1-4fa3-a56a-2629793f0948.svg"
+        />
+        <p
+          class="MuiTypography-root makeStyles-filterTextOptions-5 MuiTypography-body1"
+        >
+           Filter 
+        </p>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <div>
+      <div
+        class="MuiGrid-root-18 MuiGrid-container-19 MuiGrid-spacing-xs-3-43"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

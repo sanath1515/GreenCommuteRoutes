@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendered divinprofileitem 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+    data-testid="divinprofileitem"
+  >
+    <li
+      class="MuiListItem-root MuiListItem-gutters"
+      data-testid="listiteminprofileitem"
+    >
+      <div
+        class="MuiListItemIcon-root"
+        data-testid="listitemiconinprofileitem"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-iconStyle-4"
+          data-testid="messageinprofileitem"
+          focusable="false"
+          style="color: rgb(155, 189, 203);"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M4 4h16v12H5.17L4 17.17V4m0-2c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2H4zm2 10h12v2H6v-2zm0-3h12v2H6V9zm0-3h12v2H6V6z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiListItemIcon-root"
+        data-testid="listitem1inprofileitem"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-iconStyle-4"
+          data-testid="notifiinprofileitem"
+          focusable="false"
+          style="color: rgb(155, 189, 203);"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiListItemAvatar-root"
+        data-testid="avatarinprofileitem"
+      >
+        <img
+          alt="PROFILE IMAGE"
+          data-testid="myimageinprofileitem"
+          height="40px"
+          src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/21469ead-aeb7-47f1-900e-6a85e9034b59-3x.png"
+          style="width: 40px; height: 40px;"
+          width="40px"
+        />
+      </div>
+      <div
+        class="MuiListItemText-root"
+        data-testid="textinprofileitem"
+      >
+        <p
+          class="MuiTypography-root makeStyles-subtitle22-3 MuiTypography-body1"
+          data-testid="sareinprofileitem"
+          style="color: rgb(25, 41, 59);"
+        >
+          Sara Joseph
+        </p>
+      </div>
+      <div
+        class="MuiListItemIcon-root makeStyles-arrowIcon-2"
+        data-testid="itemiconinprofileitem"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-iconStyle-4"
+          data-testid="keyinprofileitem"
+          focusable="false"
+          style="color: rgb(25, 41, 59);"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"
+          />
+        </svg>
+      </div>
+    </li>
+  </div>
+</DocumentFragment>
+`;

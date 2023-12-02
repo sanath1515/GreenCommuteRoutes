@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendered cardinjobcard 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-root-1"
+    data-testid="maindivinjobinfo"
+  >
+    <div
+      data-testid="firstdivinjobinfo"
+    >
+      <img
+        alt="Zemoso"
+        data-testid="image"
+        height="50px"
+        src="https://logosvector.net/wp-content/uploads/2016/05/hp-logo-vector-download.jpg"
+        width="50px"
+      />
+    </div>
+    <div
+      class="makeStyles-cardDetailsDisplay-2"
+      data-testid="seconddivinjobinfo"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2"
+        data-testid="positiontypographyinjobinfo"
+      >
+        Manager
+      </h2>
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+        data-testid="companytypographyinjobinfo"
+      >
+        Zemoso
+      </h4>
+      <h4
+        class="MuiTypography-root MuiTypography-h4"
+        data-testid="locationtypographyinjobinfo"
+      >
+        Hyd
+      </h4>
+    </div>
+  </div>
+</DocumentFragment>
+`;

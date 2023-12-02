@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendered maingridinmapcard 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-root-1"
+    data-testid="maingridinmapcard"
+  >
+    <div
+      class="MuiGrid-root makeStyles-headerDiv-2"
+      data-testid="firsgridinmapcard"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-backArrowOutlinedIcon-12"
+        data-testid="arrowbackinmapcard"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+        />
+      </svg>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle1"
+        data-testid="commuteroutesinmapcard"
+      >
+        Commute Routes
+      </h6>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-imageDiv-3"
+      data-testid="2fridinmapcard"
+    >
+      <img
+        alt="Map Directions"
+        data-testid="myimageinmapcard"
+        height="135.2px"
+        src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/d8a90ae4-9dc9-4d82-aed1-f9e36cd74089-2x.png"
+        width="330px"
+      />
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-listItemDiv-4"
+      data-testid="3rdgridinmapcard"
+    >
+      <div
+        class="MuiGrid-root makeStyles-innerListItemDiv-5 makeStyles-innerListItemDivStyling-6"
+        data-testid="fourthgridinmapcard"
+      >
+        <div
+          class="MuiGrid-root makeStyles-srcLocationDiv-9 makeStyles-hide-8"
+          data-testid="5thgridinmapcard"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-circleIcon-15"
+            data-testid="manualinmapcard"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="8"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root makeStyles-locationTypo-10 makeStyles-subtitle22-11 MuiTypography-body1 MuiTypography-noWrap"
+            data-testid="srclocationinmapcard"
+          >
+            East Marredpally Secunderabad
+          </p>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-closedOutlinedIcon-13"
+            data-testid="closeinmapcard"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-innerListItemDiv-5 makeStyles-innerListItemDivStyling-6"
+        data-testid="6thgridinmapcard"
+      >
+        <div
+          class="MuiGrid-root makeStyles-srcLocationDiv-9 makeStyles-hide-8"
+          data-testid="7thgridinmapcard"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root makeStyles-locationOutlinedIcon-16"
+            data-testid="roominmapcard"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zM7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.88-2.88 7.19-5 9.88C9.92 16.21 7 11.85 7 9z"
+            />
+            <circle
+              cx="12"
+              cy="9"
+              r="2.5"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root makeStyles-locationTypo-10 makeStyles-subtitle22-11 MuiTypography-body1 MuiTypography-noWrap"
+            data-testid="destlocationinmapcard"
+          >
+            Hitech City
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

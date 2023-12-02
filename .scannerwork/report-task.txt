@@ -1,0 +1,7 @@
+organization=zemoso-int
+projectKey=zemoso-int_Bootcamp-21-Green-Commute
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22312
+dashboardUrl=https://sonarcloud.io/dashboard?id=zemoso-int_Bootcamp-21-Green-Commute
+ceTaskId=AXsU-qfNwyiKcZhbtbYl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXsU-qfNwyiKcZhbtbYl

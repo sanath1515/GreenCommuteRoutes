@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendered nossrinselect 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="1stdivinselect"
+  >
+    <div
+      aria-expanded="false"
+      data-testid="2nddivinselect"
+      role="combobox"
+    >
+      <div>
+        <p
+          class="MuiTypography-root makeStyles-title-4 MuiTypography-body1"
+        >
+          More than 2000 people are using Green Commute
+        </p>
+      </div>
+      <div
+        class="makeStyles-subtitle-5"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSecondary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+              />
+            </svg>
+            Back
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+        >
+           What do you want to do?
+        </p>
+      </div>
+      <div
+        class="sc-gtsrHT bOBvca"
+        data-testid="inputwrapperinselect"
+      >
+        <div
+          class="makeStyles-header-1"
+          data-testid="3rddivinselect"
+        >
+          <img
+            data-testid="imginselect"
+            height="24px"
+            src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/1cf5595f-c291-4826-a6b4-1590090a90ff.svg"
+            width="24px"
+          />
+        </div>
+        <input
+          aria-autocomplete="list"
+          autocapitalize="none"
+          autocomplete="off"
+          data-testid="input1inselect"
+          id="customized-hook-demo"
+          spellcheck="false"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      data-testid="4thinselect"
+    />
+  </div>
+</DocumentFragment>
+`;

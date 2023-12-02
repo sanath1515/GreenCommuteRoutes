@@ -1,0 +1,423 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Travelinfocard Rendered maindivintravelinfocard 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+    data-testid="maindivintravelinfocard"
+  >
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthLg"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+        data-testid="maingridintravelinfocard"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+          data-testid="maingriditemintravelinfocard"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-subtitle1"
+            data-testid="typographyintravelinfocard"
+          >
+            Your options
+          </h6>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-right-6 MuiGrid-item"
+          data-testid="secondgridintravelinfocard"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorTransparent MuiPaper-elevation4"
+            data-testid="Appbarintravelinfocard"
+          >
+            <div
+              class="MuiTabs-root"
+            >
+              <div
+                class="MuiTabs-scroller MuiTabs-fixed"
+                style="overflow: hidden;"
+              >
+                <div
+                  class="MuiTabs-flexContainer"
+                  role="tablist"
+                >
+                  <button
+                    aria-controls="simple-tabpanel-0"
+                    aria-selected="true"
+                    class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected"
+                    id="simple-tab-0"
+                    role="tab"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiTab-wrapper"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-tabIcons-13"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <circle
+                          cx="8.5"
+                          cy="14.5"
+                          r="1.5"
+                        />
+                        <circle
+                          cx="15.5"
+                          cy="14.5"
+                          r="1.5"
+                        />
+                        <path
+                          d="M12 2c-4 0-8 .5-8 4v9.5C4 17.43 5.57 19 7.5 19L6 20.5v.5h2l2-2h4l2 2h2v-.5L16.5 19c1.93 0 3.5-1.57 3.5-3.5V6c0-3.5-4-4-8-4zm0 2c3.51 0 4.96.48 5.57 1H6.43c.61-.52 2.06-1 5.57-1zM6 7h5v3H6V7zm12 8.5c0 .83-.67 1.5-1.5 1.5h-9c-.83 0-1.5-.67-1.5-1.5V12h12v3.5zm0-5.5h-5V7h5v3z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    aria-controls="simple-tabpanel-1"
+                    aria-selected="false"
+                    class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+                    id="simple-tab-1"
+                    role="tab"
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <span
+                      class="MuiTab-wrapper"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-tabIcons-13"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M4 16c0 .88.39 1.67 1 2.22V20c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h8v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1.78c.61-.55 1-1.34 1-2.22V6c0-3.5-3.58-4-8-4s-8 .5-8 4v10zm3.5 1c-.83 0-1.5-.67-1.5-1.5S6.67 14 7.5 14s1.5.67 1.5 1.5S8.33 17 7.5 17zm9 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm1.5-6H6V6h12v5z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    aria-controls="simple-tabpanel-2"
+                    aria-selected="false"
+                    class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+                    id="simple-tab-2"
+                    role="tab"
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <span
+                      class="MuiTab-wrapper"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-tabIcons-13"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5H15V3H9v2H6.5c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.04 3H5.81l1.04-3zM19 17H5v-4.66l.12-.34h13.77l.11.34V17z"
+                        />
+                        <circle
+                          cx="7.5"
+                          cy="14.5"
+                          r="1.5"
+                        />
+                        <circle
+                          cx="16.5"
+                          cy="14.5"
+                          r="1.5"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                  <button
+                    aria-controls="simple-tabpanel-3"
+                    aria-selected="false"
+                    class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit"
+                    id="simple-tab-3"
+                    role="tab"
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <span
+                      class="MuiTab-wrapper"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root makeStyles-tabIcons-13"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M12.72 11l-2 2h-.77l-.25-.69c-.18-.48-.42-.92-.72-1.31h3.74m2.69-6H11v2h3.59l2 2H5c-2.8 0-5 2.2-5 5s2.2 5 5 5c2.46 0 4.45-1.69 4.9-4h1.65l2.77-2.77c-.21.54-.32 1.14-.32 1.77 0 2.8 2.2 5 5 5s5-2.2 5-5c0-2.65-1.97-4.77-4.56-4.97L15.41 5zM19 17c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zM5 17c-1.63 0-3-1.37-3-3s1.37-3 3-3c1.28 0 2.4.85 2.82 2H5v2h2.82C7.4 16.15 6.28 17 5 17z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <span
+                  class="PrivateTabIndicator-root-15 PrivateTabIndicator-colorSecondary-17 MuiTabs-indicator"
+                  style="left: 0px; width: 0px;"
+                />
+              </div>
+            </div>
+          </header>
+        </div>
+      </div>
+      <br />
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+        data-testid="thirdgridintravelinfocard"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+          data-testid="thirdgriditemintravelinfocard"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+            style="color: rgb(97, 97, 97);"
+          >
+            Maddhapur - hitechcity
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-right-6 MuiGrid-item"
+          data-testid="fourthgriditemintravelinfocard"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-caption"
+            style="color: rgb(97, 97, 97);"
+          >
+            65$ • 58 mins
+          </span>
+        </div>
+      </div>
+      <br />
+      <div
+        aria-labelledby="simple-tab-0"
+        class="MuiGrid-root"
+        id="simple-tabpanel-0"
+        role="tabpanel"
+      >
+        <div
+          class="MuiBox-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1"
+          />
+          <div
+            class="MuiGrid-root"
+            data-testid="fifthgridintravelinfocard"
+          >
+            <div
+              class="MuiGrid-root makeStyles-directionsDiv-7"
+              data-testid="sixthgridintravelinfocard"
+            >
+              <div
+                class="MuiGrid-root"
+                data-testid="seventhgridintravelinfocard"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-descriptionIcons-14"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M4 16c0 .88.39 1.67 1 2.22V20c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h8v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1.78c.61-.55 1-1.34 1-2.22V6c0-3.5-3.58-4-8-4s-8 .5-8 4v10zm3.5 1c-.83 0-1.5-.67-1.5-1.5S6.67 14 7.5 14s1.5.67 1.5 1.5S8.33 17 7.5 17zm9 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm1.5-6H6V6h12v5z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiGrid-root"
+                data-testid="eigthgridintravelinfocard"
+              >
+                <div
+                  class="MuiGrid-root"
+                >
+                  <span
+                    class="MuiTypography-root makeStyles-innerDirectionDivText-8 MuiTypography-caption"
+                    data-testid="firsttypography"
+                  >
+                    Catch a bus 38X at 3:42 PM to Secunderabad bus stand.
+                  </span>
+                  <span
+                    class="MuiTypography-root makeStyles-textInRed-9 MuiTypography-caption"
+                    data-testid="secondtypography"
+                  >
+                    2 mins late
+                  </span>
+                </div>
+                <p
+                  class="MuiTypography-root makeStyles-caption32-2 MuiTypography-body1"
+                  data-testid="thirdtypography"
+                >
+                  10$ • 20 mins
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root makeStyles-directionsDiv-7"
+              data-testid="ninthgridintravelinfocard"
+            >
+              <div
+                class="MuiGrid-root"
+                data-testid="tenthgridintravelinfocard"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-descriptionIcons-14"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M13.5 5.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9L7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3C14.8 12 16.8 13 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6c-.4-.6-1-1-1.7-1-.3 0-.5.1-.8.1L6 8.3V13h2V9.6l1.8-.7"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiGrid-root"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-innerDirectionDivText-8 MuiTypography-caption"
+                  data-testid="fourthtypography"
+                >
+                  Head north on St. Johns road.
+                </span>
+                <p
+                  class="MuiTypography-root makeStyles-caption32-2 MuiTypography-body1"
+                  data-testid="fifthtypography"
+                >
+                  2 mins
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-directionsDiv-7"
+            data-testid="elevengridintravelinfocard"
+          >
+            <div
+              class="MuiGrid-root"
+              data-testid="twelthgridintravelinfocard"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-descriptionIcons-14"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <circle
+                  cx="8.5"
+                  cy="14.5"
+                  r="1.5"
+                />
+                <circle
+                  cx="15.5"
+                  cy="14.5"
+                  r="1.5"
+                />
+                <path
+                  d="M12 2c-4 0-8 .5-8 4v9.5C4 17.43 5.57 19 7.5 19L6 20.5v.5h2l2-2h4l2 2h2v-.5L16.5 19c1.93 0 3.5-1.57 3.5-3.5V6c0-3.5-4-4-8-4zm0 2c3.51 0 4.96.48 5.57 1H6.43c.61-.52 2.06-1 5.57-1zM6 7h5v3H6V7zm12 8.5c0 .83-.67 1.5-1.5 1.5h-9c-.83 0-1.5-.67-1.5-1.5V12h12v3.5zm0-5.5h-5V7h5v3z"
+                />
+              </svg>
+            </div>
+            <div
+              class="MuiGrid-root"
+              data-testid="thirteengridintravelinfocard"
+            >
+              <div
+                class="MuiGrid-root"
+                data-testid="fourteengridintravelinfocard"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-innerDirectionDivText-8 MuiTypography-caption"
+                  data-testid="sixthtypography"
+                >
+                  Catch a blue line metro towards Raidurg.
+                </span>
+                <span
+                  class="MuiTypography-root makeStyles-textInGreen-10 MuiTypography-caption"
+                  data-testid="seventhtypography"
+                >
+                  On time
+                </span>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-caption32-2 MuiTypography-body1"
+                data-testid="eigthtypography"
+              >
+                55$ • 36mins
+              </p>
+            </div>
+          </div>
+          <p />
+        </div>
+      </div>
+      <div
+        aria-labelledby="simple-tab-1"
+        class="MuiGrid-root"
+        hidden=""
+        id="simple-tabpanel-1"
+        role="tabpanel"
+      />
+      <div
+        aria-labelledby="simple-tab-2"
+        class="MuiGrid-root"
+        hidden=""
+        id="simple-tabpanel-2"
+        role="tabpanel"
+      />
+      <div
+        aria-labelledby="simple-tab-3"
+        class="MuiGrid-root"
+        hidden=""
+        id="simple-tabpanel-3"
+        role="tabpanel"
+      />
+      <br />
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+            data-testid="tenthtypography"
+            style="color: rgb(102, 187, 106);"
+          >
+             View in google maps
+          </p>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

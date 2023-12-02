@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checkbox renders correctly should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="1stdivinselect"
+  >
+    <div
+      aria-expanded="false"
+      data-testid="2nddivinselect"
+      role="combobox"
+    >
+      <div
+        class="sc-gtsrHT enJcAr"
+        data-testid="inputwrapperinselect"
+      >
+        <div
+          class="makeStyles-header-1"
+          data-testid="3rddivinselect"
+        >
+          <img
+            data-testid="imginselect"
+            src="https://cdn.zeplin.io/5fa28fcbff79c58958e4e1a6/assets/f290029c-37b1-40a9-9c06-9f4ed4d67272.svg"
+            style="width: 24px; height: 24px;"
+          />
+        </div>
+        <input
+          aria-autocomplete="list"
+          autocapitalize="none"
+          autocomplete="off"
+          data-testid="input1inselect"
+          id="customized-hook-demo"
+          spellcheck="false"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      data-testid="4thinselect"
+    />
+  </div>
+</DocumentFragment>
+`;

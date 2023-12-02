@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App check the Descption Card title 1`] = `
+<DocumentFragment>
+  <div>
+    <h2
+      class="MuiTypography-root MuiTypography-h2"
+    >
+      title
+    </h2>
+    <ul
+      class="makeStyles-listStyles-2"
+    >
+      <li>
+        <h1
+          class="MuiTypography-root MuiTypography-h1"
+          data-testid="heading"
+        >
+          High level of proficiency with leading UX Design software packages, such as Axure, Sketch, InVision, or Experience Design including the core Adobe Creative Suite products.
+        </h1>
+      </li>
+      <li>
+        <h1
+          class="MuiTypography-root MuiTypography-h1"
+          data-testid="heading"
+        >
+          Excellent written and oral communication and presentation skills 
+        </h1>
+      </li>
+    </ul>
+    <div
+      class="makeStyles-root-1"
+    >
+      <ul
+        class="makeStyles-listStyles-2"
+      >
+        <li>
+          <h5
+            class="MuiTypography-root MuiTypography-h1"
+          >
+            Excellent written and oral communication and presentation skills
+          </h5>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

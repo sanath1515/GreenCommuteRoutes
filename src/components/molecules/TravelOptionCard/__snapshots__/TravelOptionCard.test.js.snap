@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TravelOption Rendered maindivintravelinfocard 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-root-1"
+    data-testid="maingridintraveloptioncard"
+  >
+    <div
+      class="MuiGrid-root makeStyles-alignStart-2"
+      data-testid="secondgridintraveloptioncard"
+    >
+      <div
+        class="MuiGrid-root"
+        data-testid="thirdgridintraveloptioncard"
+      >
+        <img
+          alt="Maddhapur"
+          data-testid="image"
+          height="60px"
+          src="images/map.png"
+          width="60px"
+        />
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-cardDetailsDisplay-4"
+        data-testid="fourthgridintraveloptioncard"
+      >
+        <p
+          class="MuiTypography-root makeStyles-subtitle22-7 MuiTypography-body1"
+        >
+          Maddhapur
+        </p>
+        <span
+          class="MuiTypography-root makeStyles-caption32-8 MuiTypography-caption"
+        >
+          20
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-alignLast-3"
+      data-testid="fifthgridintraveloptioncard"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body2"
+            data-testid="typographyintraveloptioncard"
+            style="color: rgb(90, 197, 104);"
+          >
+             Book Now 
+          </p>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

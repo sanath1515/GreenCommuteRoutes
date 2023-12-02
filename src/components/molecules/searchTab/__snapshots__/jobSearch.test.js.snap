@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography Rendered check the Descption Card title 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="MuiGrid-root makeStyles-gridComponent-5 MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column"
+        style="width: 530px;"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-iconClass-4"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M14 6V4h-4v2h4zM4 8v11h16V8H4zm16-2c1.11 0 2 .89 2 2v11c0 1.11-.89 2-2 2H4c-1.11 0-2-.89-2-2l.01-11c0-1.11.88-2 1.99-2h4V4c0-1.11.89-2 2-2h4c1.11 0 2 .89 2 2v2h4z"
+            fill-rule="evenodd"
+          />
+        </svg>
+        <div
+          class="MuiFormControl-root MuiTextField-root"
+        >
+          <div
+            class="MuiInputBase-root MuiInput-root makeStyles-root-8 MuiInput-underline makeStyles-underline-7 MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input makeStyles-input-9"
+              placeholder="Search Jobs"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-vertical"
+        style="margin-top: 5px; margin-bottom: 5px; height: 40px;"
+      />
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-iconClass-4"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zM7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.88-2.88 7.19-5 9.88C9.92 16.21 7 11.85 7 9z"
+          />
+          <circle
+            cx="12"
+            cy="9"
+            r="2.5"
+          />
+        </svg>
+        <div
+          class="MuiFormControl-root MuiTextField-root"
+        >
+          <div
+            class="MuiInputBase-root MuiInput-root makeStyles-root-11 MuiInput-underline makeStyles-underline-10 MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInput-input makeStyles-input-12"
+              placeholder="Location"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-searchIcon-1 MuiButton-containedPrimary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
